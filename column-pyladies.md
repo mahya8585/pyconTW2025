@@ -14,10 +14,11 @@ PyLadies Eventには15〜20名くらいの方が集まりました。もちろ�
 
 PyCon TW 2025には奇跡的にも(?) PyLadies Taiwanのメンバーだけでなく、PSF(Python Software Foundation) boardメンバーの1人であるCheuk Ting Hoさんをはじめ、[PyLadies Seoul](https://pyladies.kr/ko/)、PyLadies Tokyoなどアジア各国からPyLadiesのオーガナイザーが参加していました。それぞれの経験や各国の状況などの意見交換も活発に行われ、とても良い雰囲気で記念すべき第1回のPyLadies Eventの幕を閉じました。    
 
-![各国オーガナイザーのみなさん。左から台湾、
-ソウル、PSF board、東京](/image/pyladies-event-organizers.jpeg)    
+![各国オーガナイザーのみなさん。左からDebbie(台湾)、
+Soojin(ソウル)、Cheuk(PSF)、Maaya(東京)](/image/pyladies-event-organizers.jpeg)    
 
 day1午後に本アクティビティがあったことから、day1後のPyNightやday2のイベント中にもPyLadies Eventに参加していた方々と何度も交流することができ、すごくよい時間をすごせました。    
 
 ![day2に撮ったPyLadiesグループ写真](image/group-photo.jpeg)
+
 
